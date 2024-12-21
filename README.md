@@ -66,6 +66,5 @@ docker-compose down
 
 ```
 
-CREAR CONFLICTO
-
-Lo modifico para crear el conflicto
+# Proyecto de Prueba
+Este es el contenido en la rama feature-branch.
