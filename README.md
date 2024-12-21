@@ -63,3 +63,9 @@ Y para parar el contenedor basta con:
 
 ```bash
 docker-compose down
+
+```
+
+CREAR CONFLICTO
+
+Lo modifico para crear el conflicto
